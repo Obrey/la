@@ -1,0 +1,12 @@
+# Hugo output
+public/
+resources/
+.hugo_build.lock
+
+# Editor
+.vscode/
+
+#옵시디언 설정 파일
+content/.obsidian
+content/.trash
+content/templater
